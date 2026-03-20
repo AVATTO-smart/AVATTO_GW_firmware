@@ -1,23 +1,23 @@
 [
     {
-        "name": "dongle_gw70_cc2652p_coordinator_20260319.hex",
+        "name": "dongle_gw70_cc2652p_coordinator_20250321.hex",
         "dongleType": "ZBDongle-GW70",
         "chipModel": "cc2652p",
         "firmwareType": "Zigbee",
         "firmwareDesc": "stable",
         "version": "20260319",
         "baudRate": "115200",
-        "link": "https://raw.githubusercontent.com/AVATTO-smart/AVATTO_GW_firmware/fws/ti/coordinator/dongle_gw70_cc2652p_coordinator_20260319.hex"
+        "link": "https://raw.githubusercontent.com/AVATTO-smart/AVATTO_GW_firmware/fws/ti/coordinator/dongle_gw70_cc2652p_coordinator_20250321.hex"
     },
     {
-        "name": "dongle_gw70_cc2652p_router_20260319.hex",
+        "name": "dongle_gw70_cc2652p_router_20250321.hex",
         "dongleType": "ZBDongle-GW70",
         "chipModel": "cc2652p",
         "firmwareType": "Zigbee Router",
         "firmwareDesc": "stable",
         "version": "20260319",
         "baudRate": "115200",
-        "link": "https://raw.githubusercontent.com/AVATTO-smart/AVATTO_GW_firmware/fws/ti/router/dongle_gw70_cc2652p_router_20260319.hex"
+        "link": "https://raw.githubusercontent.com/AVATTO-smart/AVATTO_GW_firmware/fws/ti/router/dongle_gw70_cc2652p_router_20250321.hex"
     },
     {
         "name": "avatto_mg24_multipan_stable_4.6.0_115200.gbl",
