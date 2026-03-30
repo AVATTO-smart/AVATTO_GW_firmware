@@ -17,7 +17,7 @@
         "firmwareDesc": "stable",
         "version": "20250321",
         "baudRate": "115200",
-        "link": "https://raw.githubusercontent.com/AVATTO-smart/AVATTO_GW_firmware/ti/coordinator/dongle_gw70_cc2652p_coordinator_20250321.hex"
+        "link": "https://raw.githubusercontent.com/AVATTO-smart/AVATTO_GW_firmware/main/ti/coordinator/dongle_gw70_cc2652p_coordinator_20250321.hex"
     },
     {
         "name": "dongle_gw70_cc2652p_coordinator_20250321.hex",
