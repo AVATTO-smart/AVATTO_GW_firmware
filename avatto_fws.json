@@ -9,6 +9,16 @@
         "baudRate": "921600",        
         "link": "https://github.com/AVATTO-smart/avatto-gw90-firmware/releases/download/1.0.2/AVATTO-GW90-Ti_v1.0.3.full.bin"    
     },
+     {
+        "name": "dongle_gw70_cc2652p_coordinator_20250321.hex",
+        "dongleType": "ZBDongle-GW70",
+        "chipModel": "cc2652p",
+        "firmwareType": "Zigbee",
+        "firmwareDesc": "stable",
+        "version": "20260319",
+        "baudRate": "115200",
+        "link": "https://gitee.com/mgwang/AVATTO_GW_firmware/raw/v1.0/ti/coordinator/dongle_gw70_cc2652p_coordinator_20250321.hex"
+    },
     {
         "name": "dongle_gw70_cc2652p_coordinator_20250321.hex",
         "dongleType": "ZBDongle-GW70",
