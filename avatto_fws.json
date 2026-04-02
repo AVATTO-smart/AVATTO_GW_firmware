@@ -16,6 +16,7 @@
         "firmwareType": "Zigbee",
         "firmwareDesc": "stable",
         "version": "20260319",
+        "fileSize": 429719, 
         "baudRate": "115200",
         "link": "https://gitee.com/mgwang/AVATTO_GW_firmware/raw/v1.0/ti/coordinator/dongle_gw70_cc2652p_coordinator_20250321.hex"
     },
