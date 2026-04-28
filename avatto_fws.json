@@ -1,24 +1,4 @@
 [
-    {        
-        "name": "AVATTO-GW90-Ti_v1.0.6.full.bin",        
-        "dongleType": "ZBDongle-GW90",        
-        "chipModel": "esp32",        
-        "firmwareType": "esp32",        
-        "firmwareDesc": "stable",        
-        "version": "1.0.6",        
-        "baudRate": "921600",        
-        "link": "https://github.com/AVATTO-smart/avatto-gw90-firmware/releases/download/1.0.6/AVATTO-GW90-Ti_v1.0.6.full.bin"    
-    },
-    {        
-        "name": "AVATTO-GW90-Ti_v1.0.3.full.bin",        
-        "dongleType": "ZBDongle-GW90",        
-        "chipModel": "esp32",        
-        "firmwareType": "esp32",        
-        "firmwareDesc": "stable",        
-        "version": "1.0.3",        
-        "baudRate": "921600",        
-        "link": "https://github.com/AVATTO-smart/avatto-gw90-firmware/releases/download/1.0.3/AVATTO-GW90-Ti_v1.0.3.full.bin"    
-    },
     {
         "name": "dongle_gw70_cc2652p_coordinator_20250321.hex",
         "dongleType": "ZBDongle-GW70",
