@@ -30,20 +30,20 @@
         "link": "https://raw.githubusercontent.com/AVATTO-smart/AVATTO_GW_firmware/fws/mg24/avatto_mg24_multipan_stable_4.6.0_115200.gbl"
     },
     {
-        "name": "avatto_mg24_zigbee_stable_8.0.2_115200.gbl",
+        "name": "avatto_coordi_mg24_zigbee_stable_8.0.2_115200.gbl",
         "dongleType": "ZBDongle-GW70-XK",
         "chipModel": "mg24",
-        "firmwareType": "Zigbee",
+        "firmwareType": "Zigbee_mg24",
         "firmwareDesc": "stable",
         "version": "8.0.2",
         "baudRate": "115200",
         "link": "https://raw.githubusercontent.com/AVATTO-smart/AVATTO_GW_firmware/fws/mg24/coordinator/avatto_mg24_zigbee_stable_8.0.2_115200.gbl"
     },
     {
-        "name": "avatto_mg24_zigbeerouter_stable_7.5.0_115200.gbl",
+        "name": "avatto_rout_mg24_zigbeerouter_stable_7.5.0_115200.gbl",
         "dongleType": "ZBDongle-GW70-XK",
         "chipModel": "mg24",
-        "firmwareType": "Zigbee Router",
+        "firmwareType": "Zigbee_mg24",
         "firmwareDesc": "stable",
         "version": "7.5.0",
         "baudRate": "115200",
