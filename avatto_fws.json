@@ -53,7 +53,7 @@
         "name": "avatto_mg24_openthread_stable_2.4.4_460800.gbl",
         "dongleType": "ZBDongle-GW70-XK",
         "chipModel": "mg24",
-        "firmwareType": "OpenThread",
+        "firmwareType": "openthread_mg24",
         "firmwareDesc": "stable",
         "version": "2.4.4",
         "baudRate": "460800",
