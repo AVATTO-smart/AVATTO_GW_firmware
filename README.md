@@ -1,1 +1,1 @@
-GW70 firmware
+GW70 & GW90 firmware
