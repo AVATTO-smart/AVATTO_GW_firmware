@@ -1,1 +1,32 @@
-
+[
+    {
+        "name": "avatto_GW90_mg24_zigbee_stable_8.0.2_115200.gbl",
+        "dongleType": "ZBDongle-GW90-XK",
+        "chipModel": "mg24",
+        "firmwareType": "ZigbeeCoordi_gw90_mg24",
+        "firmwareDesc": "stable",
+        "version": "8.0.2",
+        "baudRate": "115200",
+        "link": "https://raw.githubusercontent.com/AVATTO-smart/AVATTO_GW_firmware/fws/mg24/coordinator/avatto_GW90_mg24_zigbee_stable_8.0.2_115200.gbl"
+    },
+    {
+        "name": "avatto_GW90_mg24_zigbeerouter_stable_7.5.0_115200.gbl",
+        "dongleType": "ZBDongle-GW90-XK",
+        "chipModel": "mg24",
+        "firmwareType": "ZigbeeRout_gw90_mg24",
+        "firmwareDesc": "stable",
+        "version": "7.5.0",
+        "baudRate": "115200",
+        "link": "https://raw.githubusercontent.com/AVATTO-smart/AVATTO_GW_firmware/fws/mg24/router/avatto_GW90_mg24_zigbeerouter_stable_7.5.0_115200.gbl"
+    },
+     {
+        "name": "avatto_GW90_mg24_openthread_stable_2.4.4_460800.gbl",
+        "dongleType": "ZBDongle-GW90-XK",
+        "chipModel": "mg24",
+        "firmwareType": "Openthread_gw90_mg24",
+        "firmwareDesc": "stable",
+        "version": "2.4.4",
+        "baudRate": "460800",
+        "link": "https://raw.githubusercontent.com/AVATTO-smart/AVATTO_GW_firmware/fws/mg24/thread/avatto_GW90_mg24_openthread_stable_2.4.4_460800.gbl"
+    }
+]
