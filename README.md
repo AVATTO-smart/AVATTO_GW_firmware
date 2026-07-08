@@ -1,0 +1,1 @@
+GW70 firmware
