@@ -67,6 +67,6 @@
         "firmwareDesc": "stable",
         "version": "20260101",
         "baudRate": "460800",
-        "link": "https://raw.githubusercontent.com/AVATTO-smart/AVATTO_GW_firmware/fws/ti/ot_rcp/CC1352P2_CC2652P_launchpad_ot_rcp_2026_1_1.hex"
+        "link": "https://raw.githubusercontent.com/AVATTO-smart/AVATTO_GW_firmware/main/ti/ot_rcp/CC1352P2_CC2652P_launchpad_ot_rcp_2026_1_1.hex"
     }
 ]
